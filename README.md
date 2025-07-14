@@ -1,4 +1,5 @@
 ![Cyber Warrior](https://img.shields.io/badge/Cyber_Warrior-RT3-blue)
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 
 # 🛡️ Cybersecurity Portfolio by RT3
 
