@@ -1,3 +1,5 @@
+![Cyber Warrior](https://img.shields.io/badge/Cyber_Warrior-RT3-blue)
+
 # 🛡️ Cybersecurity Portfolio by RT3
 
 Welcome to my cybersecurity portfolio — a collection of hands-on audits, assessments, and threat analyses I've conducted while pursuing my Master’s in Cybersecurity.
